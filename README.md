@@ -29,7 +29,7 @@ El proyecto fue desarrollado aplicando la técnica de **fine-tuning** sobre un m
 ```
 RecomendadorPeliculas/
 │
-├── Equipo_Newton_PIA_4.ipynb   # Notebook principal (entrenamiento + interfaz)
+├── Equipo_Newton_PIA_4.ipynb    # Notebook principal (entrenamiento + interfaz)
 ├── Películas base.xlsx          # Lista de películas base usadas para el dataset
 ├── prompts.jsonl                # Dataset de entrenamiento (pares prompt/completion)
 └── README.md                    # Este archivo
