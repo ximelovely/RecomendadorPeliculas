@@ -137,13 +137,14 @@ Durante el desarrollo se presentaron los siguientes obstáculos:
 | Nombre | GitHub |
 |---|---|
 | Ximena Cruz | [@ximelovely](https://github.com/ximelovely) |
-| Ari Sebastián García Martínez | — |
-| Diego Alonso Pérez Barrón | — |
+| Juan Emmanuel Del Angel Arrieta | [@jordyruedas-a](https://github.com/ximelovely) |
+| Jordan Emanuel Ruedas Vazquez | [@juanedaa05](https://github.com/juanedaa05) |
+| Greco Iván Gaytán Aldana | [@grecogaytan0-spec](https://github.com/grecogaytan0-spec) |
 
 ---
 
 <div align="center">
 
-*FIME · UANL · Sistemas Adaptativos · 2025*
+*FIME · UANL · Sistemas Adaptativos · 202*
 
 </div>
