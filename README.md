@@ -137,8 +137,8 @@ Durante el desarrollo se presentaron los siguientes obstáculos:
 | Nombre | GitHub |
 |---|---|
 | Ximena Cruz | [@ximelovely](https://github.com/ximelovely) |
-| Juan Emmanuel Del Angel Arrieta | [@jordyruedas-a](https://github.com/ximelovely) |
-| Jordan Emanuel Ruedas Vazquez | [@juanedaa05](https://github.com/juanedaa05) |
+| Juan Emmanuel Del Angel Arrieta | [@juanedaa05](https://github.com/juanedaa05) |
+| Jordan Emanuel Ruedas Vazquez | [@jordyruedas-a](https://github.com/jordyruedas-a) |
 | Greco Iván Gaytán Aldana | [@grecogaytan0-spec](https://github.com/grecogaytan0-spec) |
 
 ---
