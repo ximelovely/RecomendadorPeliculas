@@ -132,7 +132,7 @@ Durante el desarrollo se presentaron los siguientes obstáculos:
 
 ## 👩‍💻 Equipo
 
-**Equipo Newton** · Grupo 015
+**Equipo Newton** · Grupo 002
 
 | Nombre | GitHub |
 |---|---|
